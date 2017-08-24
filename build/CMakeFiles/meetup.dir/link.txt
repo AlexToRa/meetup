@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/meetup.dir/meetup_test.cpp.o CMakeFiles/meetup.dir/meetup.cpp.o  -o meetup -rdynamic /usr/include/lib/libboost_unit_test_framework.a /usr/include/lib/libboost_date_time.a /usr/include/lib/libboost_regex.a 

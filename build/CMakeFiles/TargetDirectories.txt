@@ -1,0 +1,3 @@
+/home/alex/exercism/cpp/meetup/build/CMakeFiles/rebuild_cache.dir
+/home/alex/exercism/cpp/meetup/build/CMakeFiles/edit_cache.dir
+/home/alex/exercism/cpp/meetup/build/CMakeFiles/meetup.dir
